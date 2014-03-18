@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dtbook>
+   <imggroup id="imggrp_43">
+      <img id="img_12" src="orion1.jpg" alt="Orion Nebula by visible and ultraviolet light" />
+      <img id="img_13" src="orion2.jpg" alt="Young stars in Orion Nebula" />
+      <caption imgref="img_12 img_13">Nebula caption</caption>
+      <prodnote render="optional" imgref="img_12 img_13" id="pnote_19" showin="bxx">Nebula prodnote1.</prodnote>
+      <prodnote render="optional" imgref="img_12 img_13" id="pnote_20" showin="xlp">Nebula prodnote2.</prodnote>
+   </imggroup>
+</dtbook>
